@@ -3,10 +3,25 @@
 ## Java:
 
 ##### Java Development Kit builds, from Oracle:
-https://jdk.java.net/
+- https://jdk.java.net/
 
 ##### Spring Initializr:
-https://start.spring.io/
+- https://start.spring.io/
+
+##### Building Applications with Spring Boot:
+- https://spring.io/guides/gs/spring-boot/
+
+##### Eclipse IoT open source projects (building IoT Devices, Gateways ("Smart Objects"), Cloud backends, ...):
+- https://iot.eclipse.org/projects/
+
+##### Micronaut - full-stack framework for building modular, easily testable microservice and serverless applications:
+- https://micronaut.io/
+- https://github.com/micronaut-projects
+
+##### TensorFlow for Java (Open Source Machine Learning Framework):
+- https://www.tensorflow.org/
+- https://github.com/tensorflow
+
 
 ## Python:
 
