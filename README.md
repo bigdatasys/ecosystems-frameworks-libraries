@@ -1,6 +1,6 @@
 # Ecosystems, frameworks, libraries for Java, Python and Scala
 
-## Java:
+# Java:
 
 ##### Java Development Kit builds, from Oracle:
 - https://jdk.java.net/
@@ -23,7 +23,7 @@
 - https://github.com/tensorflow
 
 
-## Python:
+# Python:
 
 ##### **SciPy.org** - the SciPy ecosystem - Scientific computing in Python, a Python-based ecosystem of open-source software for mathematics, science, and engineering, with a core of packages: Python, NumPy, SciPy library, Matplotlib, Sympy, pandas.
 - https://scipy.org/
@@ -54,4 +54,11 @@
 ##### NIPY is a python project for analysis of structural and functional neuroimaging data.
 - http://nipy.org/
 
-## Scala:
+
+# Scala:
+
+##### The Scala Programming Language:
+- https://www.scala-lang.org/
+
+##### Apache Spark (unified analytics engine for large-scale data processing):
+- http://spark.apache.org/
