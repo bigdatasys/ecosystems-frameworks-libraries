@@ -1,17 +1,25 @@
 # Ecosystems, frameworks, libraries for Java, Python and Scala
 
+## Java:
+
+##### Java Development Kit builds, from Oracle:
+https://jdk.java.net/
+
+##### Spring Initializr:
+https://start.spring.io/
+
+## Python:
+
 ##### **SciPy.org** - the SciPy ecosystem - Scientific computing in Python, a Python-based ecosystem of open-source software for mathematics, science, and engineering, with a core of packages: Python, NumPy, SciPy library, Matplotlib, Sympy, pandas.
 - https://scipy.org/
-- https://scipy-lectures.org/packages/scikit-image/
 
 ##### scikit-learn - Machine Learning in Python: efficient tools for predictive data analysis, built on NumPy, SciPy, and matplotlib, Open source.
 - https://scikit-learn.org/
 
 ##### scikit-image - Image processing in Python
 - https://scikit-image.org/
-
-Installing scikit-image:
 - https://scikit-image.org/docs/stable/install.html
+- https://scipy-lectures.org/packages/scikit-image/
 
 ##### TensorFlow Federated (TFF) - an open-source framework for machine learning and other computations on decentralized data
 - https://www.tensorflow.org/
@@ -31,3 +39,4 @@ Installing scikit-image:
 ##### NIPY is a python project for analysis of structural and functional neuroimaging data.
 - http://nipy.org/
 
+## Scala:
