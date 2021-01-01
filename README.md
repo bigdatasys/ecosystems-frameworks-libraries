@@ -1,5 +1,7 @@
 # Ecosystems, frameworks, libraries for Java, Python and Scala
 
+***
+
 # Java:
 
 ##### Java Development Kit builds, from Oracle:
@@ -22,6 +24,7 @@
 - https://www.tensorflow.org/
 - https://github.com/tensorflow
 
+***
 
 # Python:
 
@@ -78,3 +81,5 @@
 
 ##### Apache MXNET (open source deep learning framework suited for flexible research prototyping and production):
 - https://mxnet.apache.org/
+
+***
