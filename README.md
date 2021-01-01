@@ -54,11 +54,27 @@
 ##### NIPY is a python project for analysis of structural and functional neuroimaging data.
 - http://nipy.org/
 
+***
 
 # Scala:
 
 ##### The Scala Programming Language:
 - https://www.scala-lang.org/
 
+***
+
+# The Apache Software Foundation (Apache Projects):
+##### General links:
+- https://www.apache.org
+- https://github.com/apache
+- https://www.apache.org/index.html#projects-list
+
 ##### Apache Spark (unified analytics engine for large-scale data processing):
 - http://spark.apache.org/
+
+##### Apache PredictionIO:
+- https://predictionio.apache.org/
+- https://github.com/apache/predictionio
+
+##### Apache MXNET (open source deep learning framework suited for flexible research prototyping and production):
+- https://mxnet.apache.org/
