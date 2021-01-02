@@ -24,6 +24,15 @@
 - https://www.tensorflow.org/
 - https://github.com/tensorflow
 
+##### AWS SDK for Java:
+- https://aws.amazon.com/sdk-for-java/
+- https://github.com/aws/aws-sdk-java/
+
+##### Azure-SDK for Java:
+- https://azure.github.io/azure-sdk-for-java/
+- https://github.com/Azure/azure-sdk-for-java
+
+
 ***
 
 # Python:
