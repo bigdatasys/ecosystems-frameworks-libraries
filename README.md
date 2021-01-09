@@ -1,4 +1,4 @@
-# Ecosystems, frameworks, libraries for Java, Python and Scala
+# Ecosystems, frameworks and libraries for JAVA, PYTHON & SCALA
 
 ***
 
