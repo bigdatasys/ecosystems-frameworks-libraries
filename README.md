@@ -107,4 +107,10 @@
 ##### Spark ML:
 - https://spark.apache.org/mllib/
 
+##### Torch:
+- https://pytorch.org/
+
+##### Keras:
+- https://keras.io
+
 ***
