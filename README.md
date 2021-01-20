@@ -101,4 +101,10 @@
 ##### PyTorch:
 - https://pytorch.org
 
+##### scikit-Learn:
+- https://scikit-learn.org
+
+##### Spark ML:
+- https://spark.apache.org/mllib/
+
 ***
