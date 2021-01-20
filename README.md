@@ -92,3 +92,13 @@
 - https://mxnet.apache.org/
 
 ***
+
+# Machine Learning Frameworks:
+
+##### TensorFlow:
+- https://www.tensorflow.org
+
+##### PyTorch:
+- https://pytorch.org
+
+***
