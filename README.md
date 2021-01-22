@@ -118,15 +118,45 @@
 # Enterprise Databases:
 
 ##### Oracle RDMS
+
 ##### Microsoft SQL Server
+
 ##### IBM Db2
+
 ##### Knack
+
 ##### PostgreSQL
+
 ##### Google Cloud BigTable
+
 ##### MySQL
+
 ##### MongoDB
+
 ##### SAP HANA
+
 ##### TeamDesk
+
 ##### Amazon RDS
+
+***
+
+# Database Platforms:
+
+##### MySQL
+
+##### Microsoft SQL Server
+
+##### Oracle
+
+##### Postgres
+
+##### Google Cloud SQL
+
+##### Google Big Query
+
+##### Amazon Aurora
+
+##### Amazon Redshift
 
 ***
