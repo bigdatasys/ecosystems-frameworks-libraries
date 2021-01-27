@@ -37,6 +37,9 @@
 
 # PYTHON:
 
+##### Python Data Analysis Library:
+- https://pandas.pydata.org
+
 ##### **SciPy.org** - the SciPy ecosystem - Scientific computing in Python, a Python-based ecosystem of open-source software for mathematics, science, and engineering, with a core of packages: Python, NumPy, SciPy library, Matplotlib, Sympy, pandas.
 - https://scipy.org/
 
