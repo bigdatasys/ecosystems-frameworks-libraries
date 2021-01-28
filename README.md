@@ -88,6 +88,9 @@
 ##### Akka:
 - https://akka.io/
 
+##### Play Framework:
+- https://www.playframework.com/
+
 ***
 
 # The Apache Software Foundation (Apache Projects):
