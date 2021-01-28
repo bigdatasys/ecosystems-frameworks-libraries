@@ -1,4 +1,4 @@
-# Ecosystems, frameworks and libraries for JAVA, PYTHON & SCALA
+## Ecosystems, frameworks and libraries for JAVA, PYTHON & SCALA
 
 ***
 
@@ -81,6 +81,12 @@
 
 ##### The Scala Programming Language:
 - https://www.scala-lang.org/
+
+##### ScalaFX:
+- http://www.scalafx.org/
+
+##### Akka:
+- https://akka.io/
 
 ***
 
