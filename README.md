@@ -78,6 +78,9 @@
 ##### Py4J (Py4J enabling Python programs running in a Python interpreter to dynamically access Java objects in a Java Virtual Machine):
 - https://www.py4j.org
 
+##### Django - a full-stack, high-level Python web framework allowing to create complex applications:
+- https://www.djangoproject.com
+
 ***
 
 # SCALA:
