@@ -81,6 +81,9 @@
 ##### Django - a full-stack, high-level Python web framework allowing to create complex applications:
 - https://www.djangoproject.com
 
+#####  Flask is a Python micro-framework:
+- http://flask.pocoo.org
+
 ***
 
 # SCALA:
