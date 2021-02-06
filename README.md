@@ -69,6 +69,9 @@
 ##### A community index of third-party packages for Apache Spark
 - https://spark-packages.org/
 
+##### Scrapy - an open source and collaborative framework for extracting the data needed from websites:
+- https://scrapy.org
+
 ##### NIPY is a python project for analysis of structural and functional neuroimaging data.
 - http://nipy.org/
 
