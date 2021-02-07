@@ -32,6 +32,8 @@
 - https://azure.github.io/azure-sdk-for-java/
 - https://github.com/Azure/azure-sdk-for-java
 
+##### Hibernate:
+- https://hibernate.org
 
 ***
 
