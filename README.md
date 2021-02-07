@@ -35,6 +35,9 @@
 ##### Hibernate:
 - https://hibernate.org
 
+##### Thymeleaf - a server-side Java template engine for web and standalone environments:
+- https://www.thymeleaf.org
+
 ***
 
 # PYTHON:
