@@ -91,6 +91,22 @@
 
 ***
 
+# PYTHON libraries for Data Science:
+
+Theano
+PyBrain
+Bokeh
+Plotly
+NLTK
+Gensim
+Scrapy
+Statsmodels
+Kivy
+PyQt
+OpenCV
+
+***
+
 # SCALA:
 
 ##### The Scala Programming Language:
