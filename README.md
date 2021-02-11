@@ -103,7 +103,6 @@
 - Statsmodels
 - Kivy
 - PyQt
-- OpenCV
 
 ***
 
