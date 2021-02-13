@@ -74,7 +74,7 @@
 ##### Scrapy - an open source and collaborative framework for extracting the data needed from websites:
 - https://scrapy.org
 
-##### NIPY is a python project for analysis of structural and functional neuroimaging data.
+##### NIPY is a python project for analysis of structural and functional neuroimaging data:
 - http://nipy.org/
 
 ##### Py4J (Py4J enabling Python programs running in a Python interpreter to dynamically access Java objects in a Java Virtual Machine):
@@ -126,14 +126,14 @@
 - https://github.com/apache
 - https://www.apache.org/index.html#projects-list
 
-##### Apache Spark (unified analytics engine for large-scale data processing):
+##### Apache Spark - unified analytics engine for large-scale data processing:
 - http://spark.apache.org/
 
 ##### Apache PredictionIO:
 - https://predictionio.apache.org/
 - https://github.com/apache/predictionio
 
-##### Apache MXNET (open source deep learning framework suited for flexible research prototyping and production):
+##### Apache MXNET - open source deep learning framework suited for flexible research prototyping and production:
 - https://mxnet.apache.org/
 
 ***
